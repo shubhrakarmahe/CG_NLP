@@ -4,7 +4,7 @@
 
 from __future__ import annotations
 
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 
 # streamlit 
 import streamlit as st
