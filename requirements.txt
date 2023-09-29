@@ -1,6 +1,6 @@
 streamlit-chat
 streamlit==1.21.0
 langchain==0.0.228
-faiss
+faiss-cpu
 openai==0.27.8
 pypdf==3.12.0
